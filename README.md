@@ -139,5 +139,5 @@ Siga os passos acima sequencialmente. Certifique-se de ter Python 3.8+ instalado
 **Protótipo Inicial** - Funcionalidades básicas implementadas (cadastro e views de teste). Em desenvolvimento para inclusão de ordens de serviço e dashboard.
 
 ## Autor
-**Sérgio Ademir Rocha do Carmo** - Desenvolvedor responsável pela apresentação e implementação inicial do sistema. Contato: [insira email ou GitHub se aplicável].
+**Sérgio Ademir Rocha do Carmo** - Apresento aqui o sistema MECANICA_LAVAJATO adaptado do curso do canal Pytonando como sistema de apoio acadêmico da disciplina Integração e Manutenção de Software do curso de Engenharia de Software da UFAM/ICET. Contato: sergioademircarmo@gmail.com.
 
