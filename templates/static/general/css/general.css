@@ -1,0 +1,7 @@
+:root {
+    --main-color: #4682B4;    /* Azul médio, vibrante */
+    --dark-color: #1C2526;    /* Azul escuro, quase navy */
+    --light-color: #ADD8E6;   /* Azul claro, suave */
+    --contrast-color: #87CEEB; /* Azul celeste, para contraste */
+    --differential-color: #E6F0FA; /* Tom bem claro, quase branco azulado */
+}
